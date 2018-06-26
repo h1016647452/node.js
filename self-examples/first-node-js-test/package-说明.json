@@ -1,0 +1,19 @@
+{
+  "name": "first-node-js-test",  // 应用名称
+  "version": "1.0.0", // 应用版本   ，注意，名称+版本作为发布应用的唯一标识
+  "description": "first-node-js-test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huangjingqing",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://h1016647452@github.com/node-js/blah.git#commit-ish"
+  },
+  "bugs": {
+    "url": "https://github.com/node-js/blah/issues"
+  },
+  "homepage": "https://github.com/node-js/blah/tree/commit-ish#readme"
+}
